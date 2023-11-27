@@ -1,2 +1,2 @@
-# data_analysis_showcase
-Showcases of different data analysis techniques
+# knn (k-nearest neighbours)
+Showcase of the k-Nearest Neighbours (kNN) algorithm.
